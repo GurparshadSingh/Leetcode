@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/GurparshadSingh/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/GurparshadSingh/Leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/GurparshadSingh/Leetcode/tree/master/0394-decode-string) |
 ## Recursion
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/GurparshadSingh/Leetcode/tree/master/0224-basic-calculator) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/GurparshadSingh/Leetcode/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/GurparshadSingh/Leetcode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
