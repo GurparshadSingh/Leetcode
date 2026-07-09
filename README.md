@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/GurparshadSingh/Leetcode/tree/master/0456-132-pattern) |
+| [0853-car-fleet](https://github.com/GurparshadSingh/Leetcode/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/GurparshadSingh/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Dynamic Programming
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/GurparshadSingh/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/GurparshadSingh/Leetcode/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/GurparshadSingh/Leetcode/tree/master/0456-132-pattern) |
+| [0853-car-fleet](https://github.com/GurparshadSingh/Leetcode/tree/master/0853-car-fleet) |
 | [0895-maximum-frequency-stack](https://github.com/GurparshadSingh/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0907-sum-of-subarray-minimums](https://github.com/GurparshadSingh/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/GurparshadSingh/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/GurparshadSingh/Leetcode/tree/master/0456-132-pattern) |
+| [0853-car-fleet](https://github.com/GurparshadSingh/Leetcode/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/GurparshadSingh/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## String
 |  |
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/GurparshadSingh/Leetcode/tree/master/0895-maximum-frequency-stack) |
+## Sorting
+|  |
+| ------- |
+| [0853-car-fleet](https://github.com/GurparshadSingh/Leetcode/tree/master/0853-car-fleet) |
 <!---LeetCode Topics End-->
