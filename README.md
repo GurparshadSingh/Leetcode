@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/GurparshadSingh/Leetcode/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/GurparshadSingh/Leetcode/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/GurparshadSingh/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/GurparshadSingh/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/GurparshadSingh/Leetcode/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/GurparshadSingh/Leetcode/tree/master/0456-132-pattern) |
@@ -76,9 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/GurparshadSingh/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0895-maximum-frequency-stack](https://github.com/GurparshadSingh/Leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Sorting
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/GurparshadSingh/Leetcode/tree/master/0853-car-fleet) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/GurparshadSingh/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
