@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/GurparshadSingh/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/GurparshadSingh/Leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GurparshadSingh/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0649-dota2-senate](https://github.com/GurparshadSingh/Leetcode/tree/master/0649-dota2-senate) |
 ## Recursion
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/GurparshadSingh/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0649-dota2-senate](https://github.com/GurparshadSingh/Leetcode/tree/master/0649-dota2-senate) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/GurparshadSingh/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/GurparshadSingh/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/GurparshadSingh/Leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
