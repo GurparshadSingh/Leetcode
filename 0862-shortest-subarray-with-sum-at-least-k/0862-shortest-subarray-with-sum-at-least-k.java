@@ -1,0 +1,24 @@
+class Solution {
+    public int shortestSubarray(int[] nums, int k) {
+        int n = nums.length;
+        Deque<Integer> dq = new ArrayDeque<>();
+        int ans = Integer.MAX_VALUE;
+        int prefix[] = new int[n + 1];
+        prefix[0] = 0;
+        for (int i = 1; i <= n; i++) {
+            prefix[i] = prefix[i - 1] + nums[i - 1];
+        }
+
+        for (int i = 0; i <= n; i++) {
+            while (!dq.isEmpty() && prefix[i] - prefix[dq.peekFirst()] >= k) {
+                ans = Math.min(ans, i - dq.pollFirst());  
+            }
+
+            while (!dq.isEmpty() && prefix[i] <= prefix[dq.peekLast()]) {
+                dq.pollLast();
+            }
+            dq.offerLast(i);
+        }
+        return ans == Integer.MAX_VALUE?-1 :ans;
+    }
+}
