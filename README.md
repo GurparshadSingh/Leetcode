@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/GurparshadSingh/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0456-132-pattern](https://github.com/GurparshadSingh/Leetcode/tree/master/0456-132-pattern) |
 | [0853-car-fleet](https://github.com/GurparshadSingh/Leetcode/tree/master/0853-car-fleet) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/GurparshadSingh/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0907-sum-of-subarray-minimums](https://github.com/GurparshadSingh/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/GurparshadSingh/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2073-time-needed-to-buy-tickets](https://github.com/GurparshadSingh/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/GurparshadSingh/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/GurparshadSingh/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GurparshadSingh/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/GurparshadSingh/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Greedy
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/GurparshadSingh/Leetcode/tree/master/0456-132-pattern) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/GurparshadSingh/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Ordered Set
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/GurparshadSingh/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/GurparshadSingh/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/GurparshadSingh/Leetcode/tree/master/0649-dota2-senate) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/GurparshadSingh/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/GurparshadSingh/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2073-time-needed-to-buy-tickets](https://github.com/GurparshadSingh/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
@@ -110,8 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/GurparshadSingh/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/GurparshadSingh/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/GurparshadSingh/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/GurparshadSingh/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/GurparshadSingh/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
