@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/GurparshadSingh/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/GurparshadSingh/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/GurparshadSingh/Leetcode/tree/master/0224-basic-calculator) |
+| [0257-binary-tree-paths](https://github.com/GurparshadSingh/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/GurparshadSingh/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/GurparshadSingh/Leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GurparshadSingh/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/GurparshadSingh/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GurparshadSingh/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/GurparshadSingh/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/GurparshadSingh/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/GurparshadSingh/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GurparshadSingh/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/GurparshadSingh/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/GurparshadSingh/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/GurparshadSingh/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GurparshadSingh/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/GurparshadSingh/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/GurparshadSingh/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -187,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/GurparshadSingh/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/GurparshadSingh/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/GurparshadSingh/Leetcode/tree/master/0226-invert-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/GurparshadSingh/Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
