@@ -14,25 +14,31 @@
  * }
  */
 class Solution {
-    public void dfs(TreeNode root,String p,List<String> ans){
+    public void dfs(TreeNode root,StringBuilder sb,List<String> ans){
         if (root == null) {
             return;
         }
-        p+=root.val;
-
+        int len = sb.length();
+        if(len!=0){
+            sb.append("->");
+        }
+        sb.append(root.val);
+        
         if (root.left == null && root.right == null) {
             // Leaf node
-           ans.add(p);
+           ans.add(sb.toString());
+           sb.setLength(len);
         }
-        p+="->";
-        dfs(root.left,p,ans);
-        dfs(root.right,p,ans);
-
+        // sb.append("->");
+        
+        dfs(root.left,sb,ans);
+        dfs(root.right,sb,ans);
+        sb.setLength(len);
     }
 
     public List<String> binaryTreePaths(TreeNode root) {
         List<String> ans = new ArrayList<>();
-        dfs(root,"",ans);
+        dfs(root,new StringBuilder(),ans);
         return ans;
     }
 }
