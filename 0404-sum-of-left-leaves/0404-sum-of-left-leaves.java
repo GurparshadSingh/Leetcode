@@ -14,16 +14,15 @@
  * }
  */
 class Solution {
-    int ans = 0;
+    
     public int sumOfLeftLeaves(TreeNode root) {
+        int ans = 0;
         if (root == null) {
             return 0;
         }
         if(root.left!=null && root.left.left==null && root.left.right==null){
             ans+=root.left.val;//leaf node pe hai
         }
-        sumOfLeftLeaves(root.left);
-        sumOfLeftLeaves(root.right);
-        return ans;
+        return sumOfLeftLeaves(root.left)+sumOfLeftLeaves(root.right)+ans;
     }
 }
