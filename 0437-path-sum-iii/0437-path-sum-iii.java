@@ -15,6 +15,7 @@
  */
 class Solution {
     int ans = 0;
+    HashMap<Long, Integer> map = new HashMap<>();
 
     public void dfs(TreeNode root, long sum, int targetSum) {
         if (root == null) {
@@ -23,21 +24,19 @@ class Solution {
 
         sum += root.val;
 
-        if (targetSum == sum) {
-            ans += 1;
+        if (map.containsKey(sum - targetSum)) {
+            ans += map.get(sum - targetSum);
         }
+        map.put(sum, map.getOrDefault(sum, 0) + 1);
 
         dfs(root.left, sum, targetSum);
         dfs(root.right, sum, targetSum);
+        map.put(sum, map.get(sum) - 1);
     }
 
     public int pathSum(TreeNode root, int targetSum) {
-        if(root==null){
-            return 0;
-        }
-        dfs(root,0,targetSum);
-        pathSum(root.left,targetSum);
-        pathSum(root.right,targetSum);
+        map.put(0L, 1);
+        dfs(root, 0L, targetSum);
         return ans;
     }
 }
