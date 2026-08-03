@@ -14,28 +14,21 @@
  * }
  */
 class Solution {
-    ArrayList<Integer> array = new ArrayList<>();
-
-    public void preorder(TreeNode root) {
-        if (root == null) {
-            return;
+    public boolean valid(TreeNode root,TreeNode min,TreeNode max){
+        if(root==null){
+            return true;
         }
-        isValidBST(root.left);
-        array.add(root.val);
-        isValidBST(root.right);
-    }
-
-    public boolean compare(ArrayList<Integer> arr) {
-        for (int i = 0; i < arr.size()-1; i++) {
-            if (arr.get(i) >= arr.get(i+1)) {
-                return false;
-            }
+        if(min!=null && root.val<=min.val){
+            return false;
         }
-        return true;
+        if(max!=null && root.val>=max.val){
+            return false;
+        }
+        return valid(root.left,min,root) && valid(root.right,root,max);
+
     }
 
     public boolean isValidBST(TreeNode root) {
-        preorder(root);
-        return compare(array);
+        return valid(root,null,null);
     }
 }
