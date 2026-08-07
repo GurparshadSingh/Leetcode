@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/GurparshadSingh/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0907-sum-of-subarray-minimums](https://github.com/GurparshadSingh/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/GurparshadSingh/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1046-last-stone-weight](https://github.com/GurparshadSingh/Leetcode/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/GurparshadSingh/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/GurparshadSingh/Leetcode/tree/master/1696-jump-game-vi) |
 | [2073-time-needed-to-buy-tickets](https://github.com/GurparshadSingh/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/GurparshadSingh/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GurparshadSingh/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/GurparshadSingh/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1046-last-stone-weight](https://github.com/GurparshadSingh/Leetcode/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/GurparshadSingh/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/GurparshadSingh/Leetcode/tree/master/1696-jump-game-vi) |
 ## Monotonic Queue
