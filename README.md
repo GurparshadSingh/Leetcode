@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/GurparshadSingh/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0907-sum-of-subarray-minimums](https://github.com/GurparshadSingh/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/GurparshadSingh/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/GurparshadSingh/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/GurparshadSingh/Leetcode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GurparshadSingh/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/GurparshadSingh/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/GurparshadSingh/Leetcode/tree/master/0224-basic-calculator) |
+| [0973-k-closest-points-to-origin](https://github.com/GurparshadSingh/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/GurparshadSingh/Leetcode/tree/master/0506-relative-ranks) |
 | [0853-car-fleet](https://github.com/GurparshadSingh/Leetcode/tree/master/0853-car-fleet) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/GurparshadSingh/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/GurparshadSingh/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GurparshadSingh/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Queue
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/GurparshadSingh/Leetcode/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GurparshadSingh/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/GurparshadSingh/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0973-k-closest-points-to-origin](https://github.com/GurparshadSingh/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/GurparshadSingh/Leetcode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GurparshadSingh/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/GurparshadSingh/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GurparshadSingh/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GurparshadSingh/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/GurparshadSingh/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/GurparshadSingh/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -368,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GurparshadSingh/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/GurparshadSingh/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/GurparshadSingh/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -380,4 +386,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/GurparshadSingh/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/GurparshadSingh/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/GurparshadSingh/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
