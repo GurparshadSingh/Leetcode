@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GurparshadSingh/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/GurparshadSingh/Leetcode/tree/master/0456-132-pattern) |
 | [0506-relative-ranks](https://github.com/GurparshadSingh/Leetcode/tree/master/0506-relative-ranks) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GurparshadSingh/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0853-car-fleet](https://github.com/GurparshadSingh/Leetcode/tree/master/0853-car-fleet) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/GurparshadSingh/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0907-sum-of-subarray-minimums](https://github.com/GurparshadSingh/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GurparshadSingh/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/GurparshadSingh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GurparshadSingh/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GurparshadSingh/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GurparshadSingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0895-maximum-frequency-stack](https://github.com/GurparshadSingh/Leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Sliding Window
@@ -91,12 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/GurparshadSingh/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/GurparshadSingh/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GurparshadSingh/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GurparshadSingh/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/GurparshadSingh/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/GurparshadSingh/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Greedy
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/GurparshadSingh/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GurparshadSingh/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/GurparshadSingh/Leetcode/tree/master/0649-dota2-senate) |
 ## Binary Search
 |  |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GurparshadSingh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GurparshadSingh/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/GurparshadSingh/Leetcode/tree/master/0506-relative-ranks) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GurparshadSingh/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0853-car-fleet](https://github.com/GurparshadSingh/Leetcode/tree/master/0853-car-fleet) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/GurparshadSingh/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/GurparshadSingh/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -156,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GurparshadSingh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GurparshadSingh/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/GurparshadSingh/Leetcode/tree/master/0506-relative-ranks) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GurparshadSingh/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GurparshadSingh/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/GurparshadSingh/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/GurparshadSingh/Leetcode/tree/master/0973-k-closest-points-to-origin) |
