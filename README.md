@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/GurparshadSingh/Leetcode/tree/master/0224-basic-calculator) |
 | [0973-k-closest-points-to-origin](https://github.com/GurparshadSingh/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [2235-add-two-integers](https://github.com/GurparshadSingh/Leetcode/tree/master/2235-add-two-integers) |
 ## Hash Table
 |  |
 | ------- |
