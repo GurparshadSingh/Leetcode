@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GurparshadSingh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GurparshadSingh/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/GurparshadSingh/Leetcode/tree/master/0456-132-pattern) |
+| [0480-sliding-window-median](https://github.com/GurparshadSingh/Leetcode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/GurparshadSingh/Leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/GurparshadSingh/Leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/GurparshadSingh/Leetcode/tree/master/0621-task-scheduler) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GurparshadSingh/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/GurparshadSingh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GurparshadSingh/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/GurparshadSingh/Leetcode/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/GurparshadSingh/Leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GurparshadSingh/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GurparshadSingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/GurparshadSingh/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/GurparshadSingh/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GurparshadSingh/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/GurparshadSingh/Leetcode/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GurparshadSingh/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/GurparshadSingh/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/GurparshadSingh/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/GurparshadSingh/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/GurparshadSingh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GurparshadSingh/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0480-sliding-window-median](https://github.com/GurparshadSingh/Leetcode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/GurparshadSingh/Leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/GurparshadSingh/Leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/GurparshadSingh/Leetcode/tree/master/0621-task-scheduler) |
@@ -438,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/GurparshadSingh/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/GurparshadSingh/Leetcode/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
