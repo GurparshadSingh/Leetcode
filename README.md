@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GurparshadSingh/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/GurparshadSingh/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/GurparshadSingh/Leetcode/tree/master/1696-jump-game-vi) |
+| [1834-single-threaded-cpu](https://github.com/GurparshadSingh/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [2073-time-needed-to-buy-tickets](https://github.com/GurparshadSingh/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Dynamic Programming
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/GurparshadSingh/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/GurparshadSingh/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GurparshadSingh/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1834-single-threaded-cpu](https://github.com/GurparshadSingh/Leetcode/tree/master/1834-single-threaded-cpu) |
 ## Queue
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GurparshadSingh/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/GurparshadSingh/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/GurparshadSingh/Leetcode/tree/master/1696-jump-game-vi) |
+| [1834-single-threaded-cpu](https://github.com/GurparshadSingh/Leetcode/tree/master/1834-single-threaded-cpu) |
 ## Monotonic Queue
 |  |
 | ------- |
