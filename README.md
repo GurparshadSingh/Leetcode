@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/GurparshadSingh/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/GurparshadSingh/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/GurparshadSingh/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1032-stream-of-characters](https://github.com/GurparshadSingh/Leetcode/tree/master/1032-stream-of-characters) |
 | [1046-last-stone-weight](https://github.com/GurparshadSingh/Leetcode/tree/master/1046-last-stone-weight) |
 | [1268-search-suggestions-system](https://github.com/GurparshadSingh/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/GurparshadSingh/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/GurparshadSingh/Leetcode/tree/master/0649-dota2-senate) |
 | [0720-longest-word-in-dictionary](https://github.com/GurparshadSingh/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0767-reorganize-string](https://github.com/GurparshadSingh/Leetcode/tree/master/0767-reorganize-string) |
+| [1032-stream-of-characters](https://github.com/GurparshadSingh/Leetcode/tree/master/1032-stream-of-characters) |
 | [1268-search-suggestions-system](https://github.com/GurparshadSingh/Leetcode/tree/master/1268-search-suggestions-system) |
 ## Recursion
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/GurparshadSingh/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GurparshadSingh/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0895-maximum-frequency-stack](https://github.com/GurparshadSingh/Leetcode/tree/master/0895-maximum-frequency-stack) |
+| [1032-stream-of-characters](https://github.com/GurparshadSingh/Leetcode/tree/master/1032-stream-of-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/GurparshadSingh/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GurparshadSingh/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1032-stream-of-characters](https://github.com/GurparshadSingh/Leetcode/tree/master/1032-stream-of-characters) |
 ## Quickselect
 |  |
 | ------- |
@@ -488,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/GurparshadSingh/Leetcode/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/GurparshadSingh/Leetcode/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/GurparshadSingh/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [1032-stream-of-characters](https://github.com/GurparshadSingh/Leetcode/tree/master/1032-stream-of-characters) |
 | [1268-search-suggestions-system](https://github.com/GurparshadSingh/Leetcode/tree/master/1268-search-suggestions-system) |
 ## Memoization
 |  |
@@ -497,4 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/GurparshadSingh/Leetcode/tree/master/0139-word-break) |
+## Aho–Corasick Algorithm
+|  |
+| ------- |
+| [1032-stream-of-characters](https://github.com/GurparshadSingh/Leetcode/tree/master/1032-stream-of-characters) |
 <!---LeetCode Topics End-->
