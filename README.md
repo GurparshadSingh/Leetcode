@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GurparshadSingh/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/GurparshadSingh/Leetcode/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/GurparshadSingh/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0745-prefix-and-suffix-search](https://github.com/GurparshadSingh/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0853-car-fleet](https://github.com/GurparshadSingh/Leetcode/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/GurparshadSingh/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/GurparshadSingh/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/GurparshadSingh/Leetcode/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/GurparshadSingh/Leetcode/tree/master/0649-dota2-senate) |
 | [0720-longest-word-in-dictionary](https://github.com/GurparshadSingh/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0745-prefix-and-suffix-search](https://github.com/GurparshadSingh/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0767-reorganize-string](https://github.com/GurparshadSingh/Leetcode/tree/master/0767-reorganize-string) |
 | [1032-stream-of-characters](https://github.com/GurparshadSingh/Leetcode/tree/master/1032-stream-of-characters) |
 | [1268-search-suggestions-system](https://github.com/GurparshadSingh/Leetcode/tree/master/1268-search-suggestions-system) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/GurparshadSingh/Leetcode/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GurparshadSingh/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0720-longest-word-in-dictionary](https://github.com/GurparshadSingh/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0745-prefix-and-suffix-search](https://github.com/GurparshadSingh/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0767-reorganize-string](https://github.com/GurparshadSingh/Leetcode/tree/master/0767-reorganize-string) |
 | [0895-maximum-frequency-stack](https://github.com/GurparshadSingh/Leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Sliding Window
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/GurparshadSingh/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/GurparshadSingh/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GurparshadSingh/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0745-prefix-and-suffix-search](https://github.com/GurparshadSingh/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0895-maximum-frequency-stack](https://github.com/GurparshadSingh/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1032-stream-of-characters](https://github.com/GurparshadSingh/Leetcode/tree/master/1032-stream-of-characters) |
 ## Sorting
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/GurparshadSingh/Leetcode/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/GurparshadSingh/Leetcode/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/GurparshadSingh/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0745-prefix-and-suffix-search](https://github.com/GurparshadSingh/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [1032-stream-of-characters](https://github.com/GurparshadSingh/Leetcode/tree/master/1032-stream-of-characters) |
 | [1268-search-suggestions-system](https://github.com/GurparshadSingh/Leetcode/tree/master/1268-search-suggestions-system) |
 ## Memoization
